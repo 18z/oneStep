@@ -19,4 +19,5 @@ https://github.com/18z/apk-re-forfun/blob/master/02/02.md
 
 2018/03/27
 https://github.com/18z/apk-re-forfun/blob/master/02/genymotion.md
+https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
 ```
