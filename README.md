@@ -27,4 +27,6 @@
   
 2018/03/29
   https://github.com/18z/apk-re-forfun/blob/master/02/proguard.md
+  afn 改 function name
+  http://sushant94.me/2015/05/31/Introduction_to_radare2/
 ```
