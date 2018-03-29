@@ -24,4 +24,7 @@
   
 2018/03/28
   https://github.com/18z/apk-re-forfun/blob/master/02/proguard.md
+  
+2018/03/29
+  https://github.com/18z/apk-re-forfun/blob/master/02/proguard.md
 ```
