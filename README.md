@@ -29,4 +29,8 @@
   https://github.com/18z/apk-re-forfun/blob/master/02/proguard.md
   afn 改 function name
   http://sushant94.me/2015/05/31/Introduction_to_radare2/
+  
+2018/03/30
+  https://monosource.gitbooks.io/radare2-explorations/content/intro/projects.html
+  https://github.com/18z/apk-re-forfun/blob/master/02/rename-function.md
 ```
