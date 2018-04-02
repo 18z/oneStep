@@ -36,4 +36,5 @@
   
 2018/04/02
   https://github.com/18z/apk-re-forfun/blob/master/02/r2project.md
+  https://radare.gitbooks.io/radare2book/content/basic_commands/write.html
 ```
