@@ -33,4 +33,7 @@
 2018/03/30
   https://monosource.gitbooks.io/radare2-explorations/content/intro/projects.html
   https://github.com/18z/apk-re-forfun/blob/master/02/rename-function.md
+  
+2018/04/02
+  https://github.com/18z/apk-re-forfun/blob/master/02/r2project.md
 ```
