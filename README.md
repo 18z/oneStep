@@ -39,4 +39,7 @@
   https://radare.gitbooks.io/radare2book/content/basic_commands/write.html
   https://www.u235.io/single-post/2017/07/23/Simplistic-Binary-Patching-With-Radare2
   https://androidrepublic.org/threads/using-radare2-for-binary-patch.21436/
+  
+2018/04/03
+  https://github.com/18z/apk-re-forfun/blob/master/02/patch.md
 ```
