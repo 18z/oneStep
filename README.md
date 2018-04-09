@@ -42,4 +42,14 @@
   
 2018/04/03
   https://github.com/18z/apk-re-forfun/blob/master/02/patch.md
+  
+2018/04/09
+  apktool
+    (2013) http://akashkhaitan.soulastral.com/android/unpackingandrepackingapk
+    (2015) * https://blog.bramp.net/post/2015/08/01/decompile-and-recompile-android-apk/
+    (2015) * http://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Repackaging/Android_Repackaging.pdf
+    (2016) https://yifeng.studio/2016/12/05/android-apk-decompile-and-repackaging/
+    (2018) * https://nyllep.wordpress.com/2018/02/25/decompiling-and-reading-17media-sourcecode/
+  radare2
+    (2016) https://androidrepublic.org/threads/using-radare2-for-binary-patch.21436/
 ```
