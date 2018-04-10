@@ -49,7 +49,8 @@
     (2015) ** https://blog.bramp.net/post/2015/08/01/decompile-and-recompile-android-apk/
     (2015) *  http://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Repackaging/Android_Repackaging.pdf
     (2016)    https://yifeng.studio/2016/12/05/android-apk-decompile-and-repackaging/
-    (2018) *  https://nyllep.wordpress.com/2018/02/25/decompiling-and-reading-17media-sourcecode/
+    (2016) ** http://huli.logdown.com/posts/661513-android-apk-decompile
+    (2018) *  https://nyllep.wordpress.com/2018/02/25/decompiling-and-reading-17media-sourcecode/
   radare2
     (2016)    https://androidrepublic.org/threads/using-radare2-for-binary-patch.21436/
 ```
