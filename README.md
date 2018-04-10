@@ -53,4 +53,7 @@
     (2018) *  https://nyllep.wordpress.com/2018/02/25/decompiling-and-reading-17media-sourcecode/
   radare2
     (2016)    https://androidrepublic.org/threads/using-radare2-for-binary-patch.21436/
+    
+2018/04/10
+  https://github.com/18z/apk-re-forfun/blob/master/02/apktool.md
 ```
