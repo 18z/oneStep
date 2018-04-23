@@ -69,4 +69,5 @@
 2018/04/23
   https://github.com/18z/apk-re-forfun/blob/master/02/apktool.md
   https://github.com/18z/apk-re-forfun/blob/master/02/api-engine.md
+  apk 加殼 ：https://chaman.gitbooks.io/techblog/Android/apk-enchance/apk-enchance.html
 ```
