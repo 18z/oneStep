@@ -68,4 +68,5 @@
   
 2018/04/23
   https://github.com/18z/apk-re-forfun/blob/master/02/apktool.md
+  https://github.com/18z/apk-re-forfun/blob/master/02/api-engine.md
 ```
