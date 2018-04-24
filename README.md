@@ -71,4 +71,8 @@
   https://github.com/18z/apk-re-forfun/blob/master/02/api-engine.md
   apk 加殼 ：https://chaman.gitbooks.io/techblog/Android/apk-enchance/apk-enchance.html
   tmr: run patched apk in genymotion to see if it really works.
+
+2018/04/24
+  https://github.com/18z/apk-re-forfun/blob/master/02/apktool.md
+  tmr: write repackaging scripts
 ```
