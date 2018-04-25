@@ -75,4 +75,10 @@
 2018/04/24
   https://github.com/18z/apk-re-forfun/blob/master/02/apktool.md
   tmr: write repackaging scripts
+
+2018/04/25
+  .so reference
+  1. https://yangbo.tech/2015/11/27/so-files-guide/
+  2. https://www.niwoxuexi.com/blog/android/article/246.html
+  3. http://allenfeng.com/2016/11/06/what-you-should-know-about-android-abi-and-so/
 ```
