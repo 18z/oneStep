@@ -81,4 +81,9 @@
   1. https://yangbo.tech/2015/11/27/so-files-guide/
   2. https://www.niwoxuexi.com/blog/android/article/246.html
   3. http://allenfeng.com/2016/11/06/what-you-should-know-about-android-abi-and-so/
+  
+  write repackaging script
+  https://github.com/18z/apk-re-forfun/blob/master/apktool-testenv/repackage.sh
+  
+  tmr: 驗證腳本 gen 出來的 apk 是否在虛擬機器中正常執行。
 ```
