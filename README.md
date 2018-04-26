@@ -86,4 +86,7 @@
   https://github.com/18z/apk-re-forfun/blob/master/apktool-testenv/repackage.sh
   
   tmr: 驗證腳本 gen 出來的 apk 是否在虛擬機器中正常執行。
+  
+2018/04/26
+  確認腳本 gen 出來的 apk 可在虛擬機器中正常執行。
 ```
