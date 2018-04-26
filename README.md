@@ -79,7 +79,7 @@
 2018/04/25
   .so reference
   1. https://yangbo.tech/2015/11/27/so-files-guide/
-  2. https://www.niwoxuexi.com/blog/android/article/246.html
+  2. * https://www.niwoxuexi.com/blog/android/article/246.html
   3. http://allenfeng.com/2016/11/06/what-you-should-know-about-android-abi-and-so/
   
   write repackaging script
@@ -89,4 +89,5 @@
   
 2018/04/26
   確認腳本 gen 出來的 apk 可在虛擬機器中正常執行。
+  針對 https://www.niwoxuexi.com/blog/android/article/246.html step by step 實作
 ```
