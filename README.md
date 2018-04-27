@@ -91,4 +91,7 @@
   確認腳本 gen 出來的 apk 可在虛擬機器中正常執行。
   針對 https://www.niwoxuexi.com/blog/android/article/246.html step by step 實作
   tmr: https://www.niwoxuexi.com/blog/android/article/246.html 掌握流程
+  
+2018/04/27
+  https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
 ```
