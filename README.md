@@ -94,4 +94,7 @@
   
 2018/04/27
   https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
+  
+2018/04/29
+  https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
 ```
