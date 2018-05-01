@@ -97,4 +97,12 @@
   
 2018/04/29
   https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
+  
+2018/05/01
+  1. 同步 android emulator 中 frida-server-android-x86 版本，以及 macos frida 版本為 10.8.0。
+  2. 啟動 frida-server in android emulator
+  3. frida-ps -U|less (In another terminal, 
+     in a regular OS shell, check if Frida is running and lists processes on Android:)
+  4. 鎖定 com.android.browser
+  5. frida-trace -i "open" -U com.android.browser
 ```
