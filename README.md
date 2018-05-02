@@ -109,4 +109,5 @@
 2018/05/02
   透過 frida-trace -U -f com.android.calendar 將 com.android.calendar 啟動。
   https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
+  frida-trace -i -I 參數差異是？
 ```
