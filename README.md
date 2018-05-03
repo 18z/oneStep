@@ -110,4 +110,10 @@
   透過 frida-trace -U -f com.android.calendar 將 com.android.calendar 啟動。
   https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
   frida-trace -i -I 參數差異是？
+  
+2018/05/03
+  1. frida-trace -i open 在 re_simple 上有 output。但還是無法解讀結果。
+  2. frida-discover 無法用。
+  3. 修改 open.js 成功
+  4. 對 open function 問題的定義描述更清楚一點。
 ```
