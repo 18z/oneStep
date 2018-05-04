@@ -116,4 +116,17 @@
   2. frida-discover 無法用。
   3. 修改 open.js 成功
   4. 對 open function 問題的定義描述更清楚一點。
+  
+2018/05/04
+  先前 frida hook 結果中出現 base.apk。
+  經了解，是 apk 安裝過程中，會出現的東西。
+  
+  參考與整理
+  https://www.jianshu.com/p/ae45af3c3098
+  
+  細節
+  https://github.com/18z/apk-re-forfun/blob/master/02/frida.md
+  
+  Android：JNI 与 NDK到底是什么？
+  https://blog.csdn.net/carson_ho/article/details/73250163
 ```
