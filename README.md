@@ -129,4 +129,9 @@
   
   Android：JNI 与 NDK到底是什么？
   https://blog.csdn.net/carson_ho/article/details/73250163
+
+2018/05/07
+  1. 原本想看 https://blog.csdn.net/carson_ho/article/details/73250163
+  2. 後來看到 https://developer.android.com/ndk/guides/
+     就決定看官方文件了，不要捨近求遠。
 ```
