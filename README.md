@@ -134,4 +134,6 @@
   1. 原本想看 https://blog.csdn.net/carson_ho/article/details/73250163
   2. 後來看到 https://developer.android.com/ndk/guides/
      就決定看官方文件了，不要捨近求遠。
+  3. base.apk 與原本 apk 差別在哪？(parkmftsai 大大 05/07 問題二有解答！)
+     https://github.com/parkmftsai/Reverse-apk-research/blob/master/learning_reverse_apk_record.md
 ```
