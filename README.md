@@ -136,4 +136,12 @@
      就決定看官方文件了，不要捨近求遠。
   3. base.apk 與原本 apk 差別在哪？(parkmftsai 大大 05/07 問題二有解答！)
      https://github.com/parkmftsai/Reverse-apk-research/blob/master/learning_reverse_apk_record.md
+     
+2018/05/08
+  https://github.com/18z/apk-re-forfun/blob/master/02/ndk.md
+  1. NDK 主要目的：build C and C++ source code 到 shared libary 中，使得 App 可以使用。
+  2. Android.mk:       which defines properties specific to individual modules, or libraries. 
+                       (特定的，module, library)
+  3. Application.mk:   which defines properties for all the modules that you use in your app.
+                       (all, modules use in the app)
 ```
