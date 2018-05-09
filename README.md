@@ -144,4 +144,8 @@
                        (特定的，module, library)
   3. Application.mk:   which defines properties for all the modules that you use in your app.
                        (all, modules use in the app)
+                       
+2018/05/09
+  寫出 ndk-simple.apk，並成功在模擬器上運行。
+  https://github.com/18z/apk-re-forfun/blob/master/02/ndk.md
 ```
