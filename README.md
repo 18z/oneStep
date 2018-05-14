@@ -165,4 +165,9 @@
      Binary file ./build/apk/res/layout/activity_main.xml matches
      Binary file ./build/apk/lib/x86_64/libnative-lib.so matches
      因此懷疑，可能有其他地方沒改到。
+
+2018/05/14
+
+  用了 radiff2 兩個參數 -x, -D 來看 .so 檔
+  -D 發現，x86, x86_64 都有 invalid。
 ```
