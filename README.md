@@ -170,4 +170,17 @@
 
   用了 radiff2 兩個參數 -x, -D 來看 .so 檔
   -D 發現，x86, x86_64 都有 invalid。
+  
+2018/05/16
+
+2018/05/16
+  實驗：patch .so 檔
+  結果：失敗
+
+  實驗步驟：
+  1. 撰寫 1 ndk apk。直接刪除 proguard-rules.pro。
+  2. generate signed apk。
+  3. 跑在 genymotion 中，成功！
+  4. vim 直接改 proguard-rules.pro excluded apk。
+  5. 將改過的 apk 試跑在 genymotion 中，閃退。
 ```
