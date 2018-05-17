@@ -181,4 +181,14 @@
   3. 跑在 genymotion 中，成功！
   4. vim 直接改 proguard-rules.pro excluded apk。
   5. 將改過的 apk 試跑在 genymotion 中，閃退。
+  
+2018/05/17
+  實驗：patch .so 檔
+  結果：失敗
+
+  實驗步驟：
+
+  1. 以 r2 修改 signed apk (with no proguard-rules.pro)。
+  2. 跑在 genymotion 中。
+  3. app 沒閃退，但字串不變。@@
 ```
