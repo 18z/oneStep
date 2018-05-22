@@ -191,4 +191,12 @@
   1. 以 r2 修改 signed apk (with no proguard-rules.pro)。
   2. 跑在 genymotion 中。
   3. app 沒閃退，但字串不變。@@
+  
+2018/05/21
+  列出所有 android 內檔案，並解釋用途。
+  猜測之所以 patch .so 失敗，可能跟驗證機制有關係。
+  或許 config 檔中會有關閉驗證機制的設定？
+
+2018/05/22
+  鎖定下一步，用 r2pipe 找出特定字串相對記憶體位置。
 ```
